@@ -1,0 +1,120 @@
+[api-updater (non-obsolete-error-filter)] 4/23/2021 10:36:43 AM : Starting /Users/ctheard/OneDrive/Documents/Unity Build/2020.2.2f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 695.265ms
+moved types parse time: 63ms
+candidates parse time : 1ms
+C# parse time         : 429ms
+candidates check time : 45ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 4/23/2021 10:38:06 AM : Starting /Users/ctheard/OneDrive/Documents/Unity Build/2020.2.2f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 101.443ms
+moved types parse time: 66ms
+candidates parse time : 2ms
+C# parse time         : 351ms
+candidates check time : 49ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 4/23/2021 10:38:09 AM : Starting /Users/ctheard/OneDrive/Documents/Unity Build/2020.2.2f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 80.29ms
+moved types parse time: 68ms
+candidates parse time : 1ms
+C# parse time         : 512ms
+candidates check time : 116ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 4/23/2021 10:38:12 AM : Starting /Users/ctheard/OneDrive/Documents/Unity Build/2020.2.2f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 76.094ms
+moved types parse time: 61ms
+candidates parse time : 1ms
+C# parse time         : 334ms
+candidates check time : 95ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 4/23/2021 10:38:19 AM : Starting /Users/ctheard/OneDrive/Documents/Unity Build/2020.2.2f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 73ms
+moved types parse time: 62ms
+candidates parse time : 1ms
+C# parse time         : 350ms
+candidates check time : 95ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 4/23/2021 10:38:25 AM : Starting /Users/ctheard/OneDrive/Documents/Unity Build/2020.2.2f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 72.722ms
+moved types parse time: 61ms
+candidates parse time : 1ms
+C# parse time         : 361ms
+candidates check time : 96ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 4/23/2021 10:38:32 AM : Starting /Users/ctheard/OneDrive/Documents/Unity Build/2020.2.2f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 208.168ms
+moved types parse time: 65ms
+candidates parse time : 1ms
+C# parse time         : 339ms
+candidates check time : 80ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 4/23/2021 10:38:37 AM : Starting /Users/ctheard/OneDrive/Documents/Unity Build/2020.2.2f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 102.752ms
+moved types parse time: 59ms
+candidates parse time : 1ms
+C# parse time         : 343ms
+candidates check time : 80ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 4/23/2021 10:38:46 AM : Starting /Users/ctheard/OneDrive/Documents/Unity Build/2020.2.2f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 113.618ms
+moved types parse time: 61ms
+candidates parse time : 1ms
+C# parse time         : 359ms
+candidates check time : 81ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 4/23/2021 10:38:54 AM : Starting /Users/ctheard/OneDrive/Documents/Unity Build/2020.2.2f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 296.004ms
+moved types parse time: 72ms
+candidates parse time : 1ms
+C# parse time         : 389ms
+candidates check time : 80ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 5/2/2021 4:59:21 PM : Starting /Users/ctheard/OneDrive/Documents/Unity Build/2020.2.2f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 617.801ms
+moved types parse time: 64ms
+candidates parse time : 1ms
+C# parse time         : 347ms
+candidates check time : 40ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 5/2/2021 5:01:25 PM : Starting /Users/ctheard/OneDrive/Documents/Unity Build/2020.2.2f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 242.546ms
+moved types parse time: 66ms
+candidates parse time : 1ms
+C# parse time         : 352ms
+candidates check time : 41ms
+console write time    : 0ms
+
