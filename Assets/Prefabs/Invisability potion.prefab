@@ -113,4 +113,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   taken: 0
-  explosion: {fileID: 0}
+  explosion: {fileID: 6707264128976509568, guid: 682d3848c10ff452b9ac648d9d8c11f1, type: 3}

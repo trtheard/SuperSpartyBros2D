@@ -2377,7 +2377,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 952187733472524102, guid: f617156771598496bb864731d4c39168, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -2
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 952187733472524102, guid: f617156771598496bb864731d4c39168, type: 3}
       propertyPath: m_LocalPosition.y
@@ -2397,7 +2397,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3804882374014075410, guid: f617156771598496bb864731d4c39168, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3804882374014075410, guid: f617156771598496bb864731d4c39168, type: 3}
       propertyPath: m_LocalPosition.y
@@ -2413,7 +2413,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9071442769704423929, guid: f617156771598496bb864731d4c39168, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 4
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 9071442769704423929, guid: f617156771598496bb864731d4c39168, type: 3}
       propertyPath: m_LocalPosition.y
@@ -3728,7 +3728,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6d926f73d3fd145a095c900ad63a6d71, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  levelAfterVictory: Level1
+  levelAfterVictory: LevelSelect
   levelAfterGameOver: Level2
   score: 0
   highscore: 0
@@ -15403,6 +15403,10 @@ PrefabInstance:
     - target: {fileID: 6427877836639502482, guid: 9ee786171b2d74c1980b59ebfc7f13fa, type: 3}
       propertyPath: m_LocalPosition.y
       value: 1.97
+      objectReference: {fileID: 0}
+    - target: {fileID: 6427877837450995794, guid: 9ee786171b2d74c1980b59ebfc7f13fa, type: 3}
+      propertyPath: moveSpeed
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 6427877837450995806, guid: 9ee786171b2d74c1980b59ebfc7f13fa, type: 3}
       propertyPath: m_Size.x
